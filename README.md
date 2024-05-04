@@ -4,7 +4,7 @@
     </div>
     <div>
             <h3><b>Artha</b></h3>
-            <p><i>Financial Literacy for All</i></p>
+            <p><i>Nurturing Wealth, Cultivating Wisdom, Enriching Well-being</i></p>
     </div>      
 </div>
 <br>
@@ -14,7 +14,7 @@
 
 
 
-**Artha: Financial Literacy for All**
+**Artha: Nurturing Wealth, Cultivating Wisdom, Enriching Well-being**
 
 A user-friendly financial education platform offering interactive learning modules, gamified experiences, real-world examples, personalized recommendations, and top-tier security for all ages to master budgeting, saving, investing, and retirement planning.
 
@@ -96,4 +96,10 @@ Track your financial performance and progress with our Performance Dashboard, wh
 <img width = "200px" src = "https://github.com/monishkajha17/teen-thrives/assets/109274817/034a17be-b062-4cd7-98b8-b4be6c6cac5b">
 </div>
 
+## Get Started
 
+Ready to take control of your finances with Artha? [Sign up](https://artha.com/signup) for an account today and start your journey towards financial empowerment!
+
+## Contact Us
+
+Have questions or need support? Feel free to reach out to us at [support@artha.com](mailto:support@artha.com). Our dedicated support team is here to help you every step of the way.
