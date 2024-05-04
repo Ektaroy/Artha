@@ -25,9 +25,9 @@ A user-friendly financial education platform offering interactive learning modul
 <blockquote align='center'>
 <h3>
 
-"1 in 3 adults struggle with basic financial literacy."
+"1 in 3 individuals globally struggle with basic financial literacy."
 
-\- Organization for Economic Cooperation and Development (OECD)
+\- Global Financial Literacy Excellence Center (GFLEC) 
 </h3>
 </blockquote>
 <br/>
