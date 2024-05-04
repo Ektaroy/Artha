@@ -8,15 +8,15 @@
     </div>      
 </div>
 <br>
-<h1 align="center">TeenThrives</h1>
+<h1 align="center">Artha</h1>
 
-<img height = "500px" src = "https://github.com/monishkajha17/teen-thrives/assets/109274817/251ed0d2-c978-470a-aeb9-e40c175fc98c" alt = "Teen-Thrives-Mockup">
+<img height = "500px" src = "" alt = "Artha-Mockup">
 
 
 
-**Teen Thrives: Empowering Teens for Well-being and Growth**
+**Artha: Financial Literacy for All**
 
-Teen Thrives is dedicated to empowering teenagers to navigate the challenges of adolescence with confidence and resilience. Our platform offers personalized support, resources, and a supportive community to promote mental health and well-being among teens.
+A user-friendly financial education platform offering interactive learning modules, gamified experiences, real-world examples, personalized recommendations, and top-tier security for all ages to master budgeting, saving, investing, and retirement planning.
 
 
 ## Problem Statement
@@ -25,10 +25,9 @@ Teen Thrives is dedicated to empowering teenagers to navigate the challenges of 
 <blockquote align='center'>
 <h3>
 
-"1 in 5 teens between ages twelve and eighteen faces mental health challenges."
+"1 in 3 adults struggle with basic financial literacy."
 
-\- Adolescent Wellness Academy
-
+\- Organization for Economic Cooperation and Development (OECD)
 </h3>
 </blockquote>
 <br/>
