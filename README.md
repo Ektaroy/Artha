@@ -74,7 +74,7 @@ Track your financial performance and progress with our Performance Dashboard, wh
 
 ## 👨🏻‍💻 &nbsp;Technology Stack
 
-<img src = "https://github.com/monishkajha17/teen-thrives/assets/109274817/4f8611ce-44c2-4c44-a93b-890ec8e18ea2">
+<img src = "https://github.com/Ektaroy/Artha/assets/97738792/e5facc56-1bc8-4b53-b41d-9b1e02c279d4">
 
 ## 👥 &nbsp;Contributors
 <div align = "center">
