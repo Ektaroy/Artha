@@ -32,43 +32,42 @@ A user-friendly financial education platform offering interactive learning modul
 </blockquote>
 <br/>
 
-Teenagers lack accessible and supportive platforms tailored to their unique challenges, leading to feelings of isolation and hindering their ability to seek help. There's a critical need for a comprehensive online platform providing personalized support and resources to promote their mental health and well-being. 
 
-As per the latest data from the American Psychological Association, more than 20% of teens have seriously considered suicide as their last option. This alarming statistic highlights the myriad of problems adolescents face, encompassing mental health issues, social acceptance, and many other key challenges. It is a pressing matter that demands attention and solutions. Our platform is an earnest endeavor to address and alleviate these problems, fostering an environment where teenagers feel accepted, supported, and confident.
+As per recent studies by the Global Financial Literacy Excellence Center (GFLEC), over 33% of adults worldwide struggle with basic financial literacy. This widespread lack of financial knowledge contributes to significant challenges such as debt accumulation, inadequate savings, and poor investment decisions. Without accessible and supportive platforms tailored to diverse age groups, individuals may feel overwhelmed and ill-equipped to manage their finances effectively. Hence, there is an urgent need for a comprehensive online platform providing interactive learning modules, personalized recommendations, and a supportive community to promote financial literacy and empower individuals of all ages.
 
 ## 🎥 &nbsp;Demo Video
 
-<a href="https://youtu.be/WQ9bFPmBhAE"><img height = "400px" src = "https://github.com/monishkajha17/teen-thrives/assets/109274817/25ce61a3-349b-4245-af33-732a5d03a16e"></a>
+<a href=""><img height = "400px" src = ""></a>
 
-> Video Link: https://youtu.be/WQ9bFPmBhAE
+> Video Link: 
 
 ## 🛠️ &nbsp;Key Functionalities
 
-<img src = "https://github.com/monishkajha17/teen-thrives/assets/109274817/5b643719-5eeb-426d-99b0-7262cc7e562a" alt = "Mobile screen mOCKUPS">
+<img src = "" alt = "Mobile screen mOCKUPS">
 
-### 1. Community Interface
+### 1. Gamified Learning
 
-Here, we offer a community interface space where every teenager can freely share their emotions, opinions, perspectives, achievements, and much more. This platform allows them to engage with each other, provide support, and foster a sense of acceptance within the community.
+Engage in immersive financial education modules tailored for different age groups, covering budgeting, saving, investing, and financial concepts. Earn coins by completing interactive quizzes, simulations, and challenges, and utilize them in the AR/VR environment. Participate in virtual challenges, track progress on leaderboards, and collaborate with peers for hands-on learning experiences.
 
-### 2. CBT Bot for Mental Health
+### 2. CBT Bot 
 
-Our Cognitive Behavioral Therapy (CBT) bot facilitates personalized conversations, monitors mental health, and generates comprehensive reports to support the well-being journey of teenagers. Recognizing that one main factor contributing to mental health issues in teenagers is the feeling of loneliness, our provision of these bots aims to address and alleviate this problem.
+Our AI-powered Artha bot offers personalized assistance and answers to users' financial queries using natural language processing (NLP). Through interactive conversations, it guides users in understanding financial concepts, making informed decisions, and achieving financial literacy goals.
 
-### 3. Educational Blog Section
+### 3. Financial Goal Tracker
 
-Our educational blog section offers content tailored to the teenage audience, considering factors such as age, gender, and mental health scores. This ensures that teenagers receive relevant education on every aspect of their lives, be it associated with mental or physical health, providing comprehensive coverage on various topics.
+Set, track, and achieve your financial goals with our Goal Tracker feature. Users can define specific financial objectives, such as saving for a vacation, buying a car, or paying off debt, and monitor their progress over time. Receive reminders and encouragement to stay on track towards achieving financial success.
 
-### 4. Community and Expert Support Section
+### 4. Personalized Budget Calculations
 
-In this section, teenagers can explore various communities focused on different factors such as health, academic success, or any other area they find most relevant. They can actively engage within these communities, fostering collaboration and mutual growth. The aim is to cultivate a sense of collaboration within each community, promoting a supportive environment for shared goals and experiences. We also provide a Support section where teenagers can engage with experienced psychologists to obtain more defined solutions for their problems.
+Our AI-driven Budget Calculations feature provides personalized budgeting recommendations based on users' financial goals, income, expenses, and spending habits. Users can input their financial information, and the AI generates customized budget plans, along with visualizations and insights to help them make informed financial decisions.
 
-### 5. Weekly Learnings
+### 5. Financial News and Updates
 
-Our Weekly Learning section delivers diverse lessons each week to teens, focusing on essential aspects associated with their body changes and mental well-being. It incorporates various assignments and polls to gather their views on addiction, social issues, bullying, and more. This feedback helps tailor lessons for the upcoming weeks, ensuring that we not only address their current problems but also concentrate on building a better future for both them and the world.
+Stay informed with our Financial News and Updates section, where users receive timely notifications about relevant financial news, market trends, new laws, and regulations. Users can customize their preferences to receive notifications tailored to their interests, ensuring they stay up-to-date with the latest developments in the financial world.
 
-### 6. Mood Tracking and Mental Health Analysis
+### 6. Performance Dashboard
 
-In our app "Teen Thrives," we offer a mood tracking and mental health analysis feature. Teenagers can track their mood daily, and based on their mood, our Cognitive Behavioral Therapy (CBT) bot engages them with thoughtful questions to analyze their emotions and understand the reasons behind their mood. Utilizing this information, the bot provides personalized support and guidance to assist them on their journey.
+Track your financial performance and progress with our Performance Dashboard, which provides insights into savings, investments, debt repayment, and overall financial health. Visualize your financial data through interactive charts and graphs, enabling users to assess their financial goals and make adjustments as needed.
 
 
 <br />
