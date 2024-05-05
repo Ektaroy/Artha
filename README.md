@@ -70,7 +70,7 @@ Track your financial performance and progress with our Performance Dashboard, wh
 
 ## 👨🏻‍💻 &nbsp;Technology Stack
 
-<img src = "https://github.com/Ektaroy/Artha/assets/97738792/e5facc56-1bc8-4b53-b41d-9b1e02c279d4">
+<img src = "https://github.com/Ektaroy/Artha/assets/97738792/99956b7e-a52f-4634-a2d9-b087ff0a4adc">
 
 ## 👥 &nbsp;Contributors
 <div align = "center">
