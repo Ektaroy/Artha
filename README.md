@@ -8,13 +8,7 @@
     </div>      
 </div>
 <br>
-<h1 align="center">Artha</h1>
 
-
-
-
-
-**Artha: Nurturing Wealth, Cultivating Wisdom, Enriching Well-being**
 
 A user-friendly financial education platform offering interactive learning modules, gamified experiences, real-world examples, personalized recommendations, and top-tier security for all ages to master budgeting, saving, investing, and retirement planning.
 
