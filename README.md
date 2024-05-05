@@ -1,6 +1,6 @@
 <div align="center">
     <div>
-<img width="500px" src="https://github.com/Ektaroy/Artha/assets/97738792/c7ca8277-405b-403e-8623-783663c76aa1" alt="Artha-Logo">
+<img width="200px" src="https://github.com/Ektaroy/Artha/assets/97738792/c7ca8277-405b-403e-8623-783663c76aa1" alt="Artha-Logo">
     </div>
     <div>
             <h3><b>Artha</b></h3>
