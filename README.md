@@ -35,11 +35,7 @@ A user-friendly financial education platform offering interactive learning modul
 
 As per recent studies by the Global Financial Literacy Excellence Center (GFLEC), over 33% of adults worldwide struggle with basic financial literacy. This widespread lack of financial knowledge contributes to significant challenges such as debt accumulation, inadequate savings, and poor investment decisions. Without accessible and supportive platforms tailored to diverse age groups, individuals may feel overwhelmed and ill-equipped to manage their finances effectively. Hence, there is an urgent need for a comprehensive online platform providing interactive learning modules, personalized recommendations, and a supportive community to promote financial literacy and empower individuals of all ages.
 
-## 🎥 &nbsp;Demo Video
 
-<a href=""><img height = "400px" src = ""></a>
-
-> Video Link: 
 
 ## 🛠️ &nbsp;Key Functionalities
 
