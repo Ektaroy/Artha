@@ -10,7 +10,7 @@
 <br>
 <h1 align="center">Artha</h1>
 
-<img height = "500px" src = "" alt = "Artha-Mockup">
+
 
 
 
@@ -39,7 +39,7 @@ As per recent studies by the Global Financial Literacy Excellence Center (GFLEC)
 
 ## 🛠️ &nbsp;Key Functionalities
 
-<img src = "" alt = "Mobile screen mOCKUPS">
+<img src = "https://github.com/Ektaroy/Artha/assets/97738792/3942c5d1-3fa5-4645-b4bb-aa2cb9e48f55" alt = "Mobile screen mOCKUPS">
 
 ### 1. Gamified Learning
 
